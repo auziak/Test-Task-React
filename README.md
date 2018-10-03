@@ -2,7 +2,7 @@
 Test task. Create a simple CMS like application using: react, react-router and webpack.
 
 ## Project Setup
-- Run: `npm instal`
+- Run: `npm install`
 - Production build: `npm run build`
 - Start dev server: `npm run start`
 
